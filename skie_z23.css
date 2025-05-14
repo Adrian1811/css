@@ -1,0 +1,42 @@
+p#pogrubienie_skierka {
+    color: #855DD3;
+    font-size: 32px;
+    font-weight:900;
+}
+
+p#pochylona_skierka {
+    color: #E9C16F;
+    font-size: 37pt;
+    font-style: italic
+   
+}
+
+p#index_gorny_skierka {
+    color: #998F1F;
+    font-size: 1.2cm;
+    vertical-align:super;
+}
+
+p#index_dolny_skierka {
+    color: #32C8B6F;
+    font-size: 1.9cm;
+    vertical-align:sub;   
+}
+
+p#mono_skierka {
+    color: #19DF6F;
+    font-size: 42px;
+   
+}
+
+p#powiekszenie_skierka {
+    color: #533FA1;
+    font-size: 62px;
+   
+}
+
+p#pomniejszenie_skierka {
+    color: rgb(72%, 64%, 24;
+    font-size: 32px;
+   
+}
